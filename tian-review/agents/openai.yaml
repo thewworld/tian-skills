@@ -1,0 +1,4 @@
+interface:
+  display_name: "日常审查入口"
+  short_description: "按场景复用方案与代码审查技能，核实依据、排除误报并随明确反馈迭代"
+  default_prompt: "使用 $tian-review 审查当前方案或代码，按范围复用合适技能，只读核查并给出重点结论。"

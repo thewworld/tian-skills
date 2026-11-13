@@ -1,0 +1,4 @@
+interface:
+  display_name: "协作质量"
+  short_description: "按需对齐需求、深入执行、挑战盲区与核验交付，保持任务范围并减少反复沟通"
+  default_prompt: "使用 $tian-collaborate 按当前任务需要对齐目标、深入关键问题并核验交付，保持范围，简明报告实际结果。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "前端日常入口"
+  short_description: "按场景复用页面设计与实现技能，打磨视觉、交互和响应式并随明确偏好迭代"
+  default_prompt: "使用 $tian-frontend 处理当前前端任务，结合项目和我的偏好，优化页面视觉与交互并验证实际结果。"
