@@ -1,0 +1,3 @@
+interface:
+  display_name: "数据统计与核查报告"
+  short_description: "分析业务数据与来源差异，形成有依据且易理解的统计报告"
